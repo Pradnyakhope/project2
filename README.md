@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Pradnya Khope
+Created by Pradnya Khope.
